@@ -12,11 +12,13 @@ ___
 
 >Output from Input_01.txt file.
 
-![](src/Output_01.png)
+![output1](https://user-images.githubusercontent.com/65701818/193413628-9c9da5d9-887f-41f3-af8d-6b81e53e400e.png)
+
 
 >Output from Input_02.txt file.
 
-![](src/Output_02.png)
+![output2](https://user-images.githubusercontent.com/65701818/193413635-4b917c53-d4a8-453f-b25b-9117e945d45a.png)
+
 
 
 ## Complexity
