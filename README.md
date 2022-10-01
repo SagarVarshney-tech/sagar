@@ -1,24 +1,9 @@
 # Steps to execute code
 ___
 
-1. You must have a `JDK installed` on your computer and if not then install it from here depending on your system requirements also you can use online JDB compiler as well as replit account:
+1. You must have a `JDK installed` on your computer and if not then install it from here depending on your system requirements also you can use online GDB compiler as well as replit account:
     > https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html
 2. Must have any java editor installed on your system.
-
-
-
-## Output
-___
-
->Output from Input_01.txt file.
-
-![output1](https://user-images.githubusercontent.com/65701818/193413628-9c9da5d9-887f-41f3-af8d-6b81e53e400e.png)
-
-
->Output from Input_02.txt file.
-
-![output2](https://user-images.githubusercontent.com/65701818/193413635-4b917c53-d4a8-453f-b25b-9117e945d45a.png)
-
 
 
 ## Complexity
